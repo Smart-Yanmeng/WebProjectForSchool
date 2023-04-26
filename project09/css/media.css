@@ -147,7 +147,7 @@
     }
 }
 
-/* 大屏幕（小于等于992px） */
+/* 大屏幕（大于等于992px） */
 @media (min-width: 992px) {
     nav > ul li {
         margin: 0 35px;
@@ -174,7 +174,7 @@
     }
 }
 
-/* 超大屏幕（小于等于1200px） */
+/* 超大屏幕（大于等于1200px） */
 @media (min-width: 1200px) {
     nav > ul li {
         margin: 0 40px;
