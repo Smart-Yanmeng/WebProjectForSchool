@@ -1,0 +1,42 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font: 12px "微软雅黑", Tahoma, Geneva, sans-serif;
+    background: #eeece3;
+}
+
+input {
+    border: none;
+    padding: 1px 2px;
+}
+
+input:focus {
+    border: none;
+    outline: none;
+}
+
+a {
+    text-decoration: none
+}
+
+/* 版心布局 */
+.body {
+    width: 1140px;
+    height: 100%;
+    margin: auto;
+}
+
+/* FLEX */
+.space-between {
+    display: flex;
+    justify-content: space-between;
+}
+
+/* FOR TEST */
+.border {
+    border: 1px solid black;
+    box-sizing: border-box;
+}
