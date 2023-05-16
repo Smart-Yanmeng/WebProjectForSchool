@@ -490,7 +490,7 @@
     }
 }
 
-/* SCREEN-WIDTH > 767px */
+/* SCREEN-WIDTH > 0px */
 @media screen and (min-width: 0) and (max-width: 1139px) {
     div {
         width: 100%;
